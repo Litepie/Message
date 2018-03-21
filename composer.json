@@ -11,6 +11,7 @@
         }
     ],
     "require": {
+        "lavalite/framework": "~3.0"
     },
     "autoload": {
         "classmap": [
