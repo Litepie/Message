@@ -1,5 +1,5 @@
 {
-    "name": "lavalite/message",
+    "name": "litepie/message",
     "description": "Message bundle for Lavalite",
     "keywords": ["lavalite", "message"],
     "license": "MIT",
@@ -17,7 +17,7 @@
             "database/seeds"
         ],
         "psr-4": { 
-            "Lavalite\\Message\\": "src" 
+            "Litepie\\Message\\": "src" 
         }
     }
 }
